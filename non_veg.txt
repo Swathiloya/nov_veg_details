@@ -1,0 +1,5 @@
+S.no*Items
+1*mutton
+2*chicken
+3*egg
+4*fish
